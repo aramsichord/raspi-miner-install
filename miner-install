@@ -1,4 +1,5 @@
 #!/bin/bash
 curl https://raw.githubusercontent.com/dury10/xmgMinerInstaller/master/xmg_linux.sh > xmg_linux.sh
+sleep 1
 chmod +x xmg_linux.sh
 ./xmg_linux.sh
